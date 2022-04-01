@@ -6,7 +6,7 @@ We do so by writing [deciders](https://bbchallenge.org/method#deciders), which a
 
 The machine that have not yet be decided by any decider are compiled in the index `bb5_undecided_index` stored in this repository. See [undecided machines index file](https://bbchallenge.org/method#undecided-machines-index-file).
 
-This file is a binary file containing a sorted succession of big-endian uint32 (4-byte). Each of these integers is the index of an undecided machine in the [seed database](https://bbchallenge.org/method#seed-database).
+This file is a binary file containing a sorted succession of big-endian uint32 (4-byte). Each of these integers is the index of an undecided machine in the [seed database](https://bbchallenge.org/method#seed-database). See https://github.com/bbchallenge/bbchallenge-seed. 
 
 ## Why on github?
 
