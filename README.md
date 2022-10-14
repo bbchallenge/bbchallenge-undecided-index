@@ -1,4 +1,4 @@
-# BBchallenge undecided index
+# bbchallenge's undecided index
 
 The goal of [https://bbchallenge.org/](https://bbchallenge.org/) is to decided the behavior of all 5-state Turing machine (from all-0 tape), see [Story](https://bbchallenge.org/story).
 
